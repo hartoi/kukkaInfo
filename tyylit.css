@@ -1,0 +1,24 @@
+body {
+    background-color:sandybrown;
+}
+
+.kukka{
+    background-color:lemonchiffon;
+    padding: 15px;
+    margin: 5px;
+    border: 1px dotted grey;
+}
+
+.header{
+background-image: url("https://tiedebasaari.files.wordpress.com/2013/08/sunflower-field-photo-credit-www-wakpaper-com.jpg");
+height:120px;
+padding: 15px;
+    margin: 5px;
+}
+
+.footer{
+    background-color:lightcoral;
+    padding: 15px;
+    margin: 5px;
+    border: 5px dotted grey;
+}
