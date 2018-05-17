@@ -10,9 +10,19 @@ body {
 }
 
 .header{
-background-image: url("https://tiedebasaari.files.wordpress.com/2013/08/sunflower-field-photo-credit-www-wakpaper-com.jpg");
-height:120px;
-padding: 15px;
+/*
+    background-image: url("https://tiedebasaari.files.wordpress.com/2013/08/sunflower-field-photo-credit-www-wakpaper-com.jpg")
+no-repeat 500 120;
+;*/
+background: url(https://tiedebasaari.files.wordpress.com/2013/08/sunflower-field-photo-credit-www-wakpaper-com.jpg) no-repeat 0 0;
+/*
+-webkit-background-size: contain;
+-moz-background-size: contain;
+-o-background-size: contain;
+background-size: contain;
+*/
+width:100%;
+height:200px;
     margin: 5px;
 }
 
