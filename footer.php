@@ -1,3 +1,3 @@
 <div class="footer">
-All Rights Reserved HarttuFlower
+Flower Power - All Rights Reserved HarttuFlower
 </div>
